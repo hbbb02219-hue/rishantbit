@@ -6,7 +6,7 @@
 
 Deploy your own instance directly to Heroku with a single click.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/YOUR_USERNAME/Telegram-Hosting-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hbbb02219-hue/rishantbit)
 
 > **Replace `YOUR_USERNAME/Telegram-Hosting-Bot` with your actual GitHub repository URL.**
 
